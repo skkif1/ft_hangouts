@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorGrey</item>
+        <item name="colorAccent">@color/colorLightGrey</item>
+        <item name="colorPrimaryDark">@color/colorGrey</item>
+        <item name="android:navigationBarColor">@color/colorGrey</item>
+        <item name="buttonStyle">@style/button2</item>
+    </style>
+
+
+
+    <!--//actionBar -->
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="android:background">@color/colorGrey</item>
+    </style>
+
+    <!--buttons-->
+    <style name="button2" parent="@style/button1">
+        <item name="android:background">@color/colorGrey</item>
+    </style>
+
+
+    <style name="button1" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+
+
+</resources>

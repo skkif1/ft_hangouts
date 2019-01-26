@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/importContacts"
+        android:orderInCategory="100"
+        android:title="@string/import_contacts"/>
+    <item
+        android:id="@+id/darkTheme"
+        android:title="@string/darkTheme">
+    </item>
+    <item
+        android:id="@+id/lightTheme"
+        android:title="@string/lightTheme">
+    </item>
+    <item
+        android:id="@+id/backgroundTime"
+        android:title="@string/start_timer">
+    </item>
+    <item
+        android:id="@+id/backgroundOff"
+        android:title="@string/turn_off_timer">
+    </item>
+    <item
+        android:id="@+id/delleteAllContacts"
+        android:title="@string/delete_all_contacts">
+    </item>
+
+</menu>

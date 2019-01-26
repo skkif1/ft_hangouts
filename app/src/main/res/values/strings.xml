@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="action_settings">settings</string>
+    <string name="add_phone_number">phone number</string>
+    <string name="add_full_name">full name</string>
+    <string name="add_company">company</string>
+    <string name="add_contact_batton">add contact</string>
+    <string name="toast_contact_added">contact saved</string>
+    <string name="toast_contact_empty">contact empty</string>
+    <string name="addContactEditText">edit contact</string>
+    <string name="background">time on background</string>
+    <string name="importContact">import contacts</string>
+    <string name="darkTheme">dark theme</string>
+    <string name="lightTheme">light theme</string>
+    <string name="removeContact">contact removed</string>
+    <string name="emptyMessage">empty message</string>
+    <string name="smsCouldNotSent">SMS could not sent</string>
+    <string name="contactUpdated">contact updated</string>
+    <string name="SelectPicture">select picture</string>
+    <string name="no_contacts_yet">no contacts yet</string>
+    <string name="import_contacts">import</string>
+    <string name="add">add</string>
+    <string name="send_message">send message</string>
+    <string name="remove_contact">remove contact</string>
+    <string name="permissions">sorry app cant work properly without permissions</string>
+    <string name="start_timer">start timer</string>
+    <string name="turn_off_timer">turn off timer</string>
+    <string name="delete_all_contacts">delete all contacts</string>
+    <string name="message_delivered">message sent</string>
+</resources>
